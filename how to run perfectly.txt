@@ -1,0 +1,9 @@
+1. install python ("remember to click on add python to path while installing)
+2. install chromedriver
+3. install gechodriver
+4. turn ON hidden files
+5. then go to drive C -> Users -> your pc name -> AppData -> Local -> Programs -> Python and paste chromedriver and gechodriver there
+6. open cmd and then type -> pip install selenium 
+
+
+now you can open that file

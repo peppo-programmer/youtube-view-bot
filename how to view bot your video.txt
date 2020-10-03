@@ -1,0 +1,7 @@
+to change from other video to your video and to change other setting like minutes to watch and how many times.
+
+1. right click the file
+2. open with and then the first option
+3. remove the link and paste your link between '  ' (dont remove '')
+4. you can change time and view also
+5. save and run the file 
